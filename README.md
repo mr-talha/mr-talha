@@ -1,16 +1,24 @@
-<h1 align="center">Hi 👋, I'm Talha</h1>
-<h3 align="center">Senior Software Engineer | .NET & React Developer | Open to Remote Roles</h3>
+<h1 align="center">Hi 👋, I'm Talha Hameed</h1>
+<h3 align="center">Senior Software Engineer | .NET & React Specialist | Open to Remote Roles</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/tal-haha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Talha%20Hameed-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:talhahameed683@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-💼 Software Engineer with 3+ years of experience  
-🌍 Based in Pakistan  
-🔭 Currently working on: ASP.NET Core & React applications  
-🌱 Learning: System Design & Cloud (Azure)  
-🎯 Goal: Secure a high-quality remote opportunity  
-⚡ Fun fact: I love turning complex problems into clean, scalable solutions  
+💼 Software Engineer with **3+ years of professional experience**  
+🧠 Strong grip on **.NET Core, Web APIs, React & SQL Server**  
+🌍 Based in **Pakistan** — available for **remote opportunities**  
+⚙️ Focused on **scalable architecture & clean code**  
+📈 Currently preparing for **senior-level roles**
 
 ---
 
@@ -20,7 +28,8 @@
 - .NET Core
 - ASP.NET Core Web API
 - Entity Framework
-- RESTful APIs
+- RESTful API Design
+- LINQ
 
 ### 🎨 Frontend
 - React.js
@@ -31,24 +40,23 @@
 ### 🗄️ Database
 - SQL Server
 
-### ⚙️ Tools
-- Git
+### ☁️ Tools & DevOps
+- Git & GitHub
 - Azure DevOps
 - Visual Studio
 - VS Code
 
 ---
 
-## 📌 Featured Projects
+## 💼 Professional Work Highlights
 
-🔹 **Enterprise Web APIs in .NET Core**  
-Scalable REST APIs with clean architecture & repository pattern  
+🔹 Designed and developed **enterprise-level REST APIs** using ASP.NET Core  
+🔹 Built **full-stack CRUD systems** with React + .NET Core  
+🔹 Implemented **Repository Pattern & Clean Architecture**  
+🔹 Worked with **production databases and optimized SQL queries**  
+🔹 Integrated **secure and scalable frontends with real APIs**
 
-🔹 **React TypeScript Admin Dashboard**  
-Dynamic UI with reusable components and API integration  
-
-🔹 **Full CRUD Management System**  
-ASP.NET Core + SQL Server + React
+> 📌 Note: Most projects are private due to company confidentiality.
 
 ---
 
@@ -64,22 +72,29 @@ ASP.NET Core + SQL Server + React
 
 ---
 
-## 🏆 Top Skills
+## 🏆 Core Strengths
 
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver" />
-</p>
+✔ Scalable Web API Development  
+✔ Database Design & Query Optimization  
+✔ Clean Architecture  
+✔ SOLID Principles  
+✔ Reusable React Components  
+✔ Performance Optimization  
 
 ---
 
-## 📫 Connect With Me
+## 🌱 Currently Learning
 
-💼 LinkedIn: (add your link)  
-📧 Email: (add your email)
+- System Design
+- Azure Cloud
+- Microservices Architecture
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn: https://linkedin.com/in/tal-haha  
+📧 Email: talhahameed683@gmail.com  
 
 ---
 
